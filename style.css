@@ -91,8 +91,8 @@ a {
 /* IMPORTANT CODE */
 button {
     border-radius: 20px;
-    border: 1px solid #ff4b2b;
-    background: #ff4b2b;
+    border: 1px solid #2929c3;
+    background: #2929c3;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
@@ -149,8 +149,8 @@ button.ghost {
 }
 
 .overlay {
-    background: #fff;
-    background: linear-gradient(to right, #ff4b2b, #ff416c) no-repeat 0 0 / cover;
+    background: #2929c3;
+    background: linear-gradient(to right, #2929c3, #2f629f) no-repeat 0 0 / cover;
     color: #fff;
     position: relative;
     left: -100%;
